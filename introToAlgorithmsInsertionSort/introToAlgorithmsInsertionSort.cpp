@@ -33,3 +33,7 @@ int main() {
 
     return 0;
 }
+
+/* Insertion sorting (overlysimplified) is very efficient if the number of elements is not huge. 
+Its efficiency begins to decline
+as the number of elements grow.*/
